@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm kjm9198
+# 👋 Hello there! I'm Michał Bożek (Polish name) or Vũ Tiến Đạt (Vietnamese name)
 
 ## 👨‍💻 About Me
 
