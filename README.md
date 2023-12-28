@@ -25,7 +25,7 @@ I'm currently diving deeper into:
 
 - Advanced concepts in FastAPI for building robust APIs.
 - Enhancing my skills in JavaScript and mastering React.
-- Building a clone of messenger.
+- Building a clone of notion.
 
 
 ## 📫 Let's Connect
