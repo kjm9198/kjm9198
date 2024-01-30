@@ -4,7 +4,8 @@
 
 I'm a passionate Vietnamese software developer born in Poland with expertise in Python and Java. 
 I'm currently a 3rd year student at the university Polsko-Japońska Akademia Technik Komputerowych and my specialization is Business Application. 
-My interests also extend to modern web development technologies like FastAPI, JavaScript, React and Speed typing.
+My interests also extend to modern web development technologies like FastAPI, JavaScript and React.
+
 
 - 🐍 Python Enthusiast
 - ☕ Java Developer
@@ -25,7 +26,7 @@ I'm currently diving deeper into:
 
 - Advanced concepts in FastAPI for building robust APIs.
 - Enhancing my skills in JavaScript and mastering React.
-- Building a clone of notion.
+- Building a portfolio site.
 
 
 ## 📫 Let's Connect
