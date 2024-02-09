@@ -33,5 +33,3 @@ I'm currently diving deeper into:
 
 - **GitHub:** @kjm9198 (https://github.com/kjm9198)
 - **LinkedIn:** Michał Bożek (https://www.linkedin.com/in/kjm9198)
-
-Looking forward to connecting with fellow developers and exchanging ideas!
