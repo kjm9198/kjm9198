@@ -31,5 +31,6 @@ I'm currently diving deeper into:
 
 ## 📫 Let's Connect
 
+
 - **GitHub:** @kjm9198 (https://github.com/kjm9198)
 - **LinkedIn:** Michał Bożek (https://www.linkedin.com/in/kjm9198)
